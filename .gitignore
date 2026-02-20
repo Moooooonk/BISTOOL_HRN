@@ -1,0 +1,24 @@
+# Data files (stored on Google Drive, not GitHub)
+Data/
+FaceScape_Sqsh/
+*.dcm
+*.zip
+*.sqsh
+*.tar.gz
+
+# Large model files
+*.pth
+*.onnx
+*.pb
+
+# Claude Code local settings
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
